@@ -2,3 +2,5 @@ Animals
 1- dog
 2-cat
 3-elephant
+4-Lion
+5-bear
